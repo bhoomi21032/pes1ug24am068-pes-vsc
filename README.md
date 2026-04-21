@@ -577,6 +577,7 @@ The following questions cover filesystem concepts beyond the implementation scop
 | GC (analysis-only)        | Q6.1, Q6.2       |
 
 -----------
+<img width="1330" height="553" alt="image" src="https://github.com/user-attachments/assets/2efe244a-d900-4e1b-a78c-2c43b0bc0f23" />
 
 ## Submission Requirements
 
