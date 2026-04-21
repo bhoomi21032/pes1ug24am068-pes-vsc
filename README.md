@@ -578,6 +578,12 @@ The following questions cover filesystem concepts beyond the implementation scop
 
 -----------
 <img width="1330" height="553" alt="image" src="https://github.com/user-attachments/assets/2efe244a-d900-4e1b-a78c-2c43b0bc0f23" />
+<img width="1501" height="322" alt="image" src="https://github.com/user-attachments/assets/0524a55c-a107-4538-942f-e73f1faa6364" />
+<img width="1471" height="198" alt="image" src="https://github.com/user-attachments/assets/856501ed-d7f8-4f87-880f-9bea7fc3c116" />
+<img width="1698" height="289" alt="image" src="https://github.com/user-attachments/assets/cb13e8c8-e993-48f7-838d-e5c973fd9fdc" />
+
+
+
 
 ## Submission Requirements
 
